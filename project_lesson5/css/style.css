@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css?family=Inter:regular,500,600,700&display=swap");
+@import url("fonts.css");
+@import url("reset.css"); 
+
+body{
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    color: #7d7d7d;
+}
+.title{
+    font-family: "Poppins", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 1.27;
+    color: #37393F;
+}
+.sub-title{
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.27;
+    color:#6B77E5; 
+}
+.sub-title2{
+    font-family: "Poppins", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 1.27;
+    color: #37393F;
+}
+h3{
+    font-family: "Inter", sans-serif;
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 1.3;
+    text-shadow: 2px 2px 3px #238;
+    color: #4a4a7a;
+}
+.text2{
+    font-family: "Poppins", serif ;
+    font-size: 17px;
+    font-weight: 500;
+    text-align: center;
+    color: #c51313 ;
+    text-shadow: 2px 4px 6px #376, 1px -2px 4px #928 ;
+    font-style: italic;
+    text-decoration: underline;
+}
+.text3{
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
